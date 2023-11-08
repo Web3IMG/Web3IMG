@@ -1,0 +1,1 @@
+Check the custom hooks documentation here: https://chv.to/v3themehooks
